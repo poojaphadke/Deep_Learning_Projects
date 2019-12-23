@@ -1,4 +1,5 @@
 # Deep_Learning_Projects
-This repo contains the following Deep Learning Projects I have done.
+This repo contains the following Deep Learning Projects using Sequence Models.
 1. Trigger word detection
 2. Attention Model for Machine Translation
+
